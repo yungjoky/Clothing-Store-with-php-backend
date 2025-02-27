@@ -112,4 +112,4 @@ npm run dev
 5. Open a Pull Request
 ```
 <hr>
-<footer>Developed with love by @yungjoky ```</footer>
+Developed with love by <b>@yungjoky</b>
